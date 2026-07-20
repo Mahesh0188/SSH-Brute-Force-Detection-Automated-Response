@@ -70,7 +70,6 @@ Technologies Used
 - iptables Firewall
 - JSON Log Processing
 - MITRE ATT&CK Framework
-- GitHub
 
 ---
 
@@ -129,11 +128,12 @@ Project Structure
 
 SOC-Automation-Platform/
 │
-├── autobrutedefense.py
-├── README.md
-├── requirements.txt
+├── screenshots   
+├── .gitignore
 ├── LICENSE
-└── screenshots/
+├── README.md
+├── requirements.txt 
+└── autobrutedefense.py
 
 ---
 
@@ -141,7 +141,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/SOC-Automation-Platform.git
+git clone https://github.com/Mahesh0188/SSH-Brute-Force-Detection-Automated-Response.git
 
 Install the required dependencies:
 
